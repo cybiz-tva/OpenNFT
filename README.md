@@ -1,22 +1,4 @@
-![White-label NFT Marketplace](https://user-images.githubusercontent.com/2101767/118617316-cd401700-b7c2-11eb-8baa-d7f83e07274d.jpg)
 
-<p align="center">
-Built on &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
-<img src="https://user-images.githubusercontent.com/2101767/118615635-3aeb4380-b7c1-11eb-93d9-a46438542020.png" width="200">
-</p>
-
-
-# OpenAlgoNFT
-
-OpenAlgoNFT is an open-source cloud-native platform for building an NFT Marketplace on top of Algorand blockchain. 
-
-Learn more on our official [case study](https://staging.ulam.io/case-studies/whitelabel-nft-marketplace-by-ulam-labs/). 
-
-# Getting started with OpenAlgoNFT
-
-There are three components involved in the platform. The frontend, the backend, and the smart contracts. The backend and frontend parts of the application have to be deployed to a server. Smart contracts are automatically deployed by the platform when new NFTs are created.
-
-Follow the instructions below to prepare your development environment or to deploy the application to a public server.
 
 # How to deploy to Google Cloud Platform
 
